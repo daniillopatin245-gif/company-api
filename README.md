@@ -34,9 +34,9 @@ uvicorn main:app --reload
 
 Открыть: http://localhost:8000/docs
 
-Скриншоты
-Swagger UI
-Swagger
+# Скриншоты
+## Swagger UI
+![Swagger](screenshots/swagger.png)
 
 PDF-отчёт
 PDF
