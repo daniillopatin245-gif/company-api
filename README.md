@@ -38,8 +38,5 @@ uvicorn main:app --reload
 ## Swagger UI
 ![Swagger](screenshots/swagger.png)
 
-PDF-отчёт
-PDF
-
 Автор
 daniillopatin245-gif
