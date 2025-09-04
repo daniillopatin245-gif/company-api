@@ -36,7 +36,7 @@ uvicorn main:app --reload
 
 # Скриншоты
 ## Swagger UI
-[Swagger UI](screenshots/swagger.png)
+![Swagger UI](compani-api/screenshots/swagger.png)
 
 Автор
 daniillopatin245-gif
