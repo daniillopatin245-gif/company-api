@@ -32,14 +32,14 @@ pip install -r requirements.txt
 # 4. Запуск
 uvicorn main:app --reload
 
-👉 Открыть: http://localhost:8000/docs
+Открыть: http://localhost:8000/docs
 
-🖼 Скриншоты
+Скриншоты
 Swagger UI
 Swagger
 
 PDF-отчёт
 PDF
 
-🤝 Автор
+Автор
 daniillopatin245-gif
