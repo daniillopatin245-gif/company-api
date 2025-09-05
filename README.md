@@ -19,7 +19,7 @@ API для получения данных о компаниях по ИНН с 
 
 bash
 ### 1. Клонировать
-git clone https://github.com/daniillopatin245-gif/company-api.git
+git clone https://github.com/daniill.lopatin245-gif/company-api.git
 cd company-api
 
 ### 2. Виртуальное окружение
