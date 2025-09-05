@@ -19,18 +19,18 @@ API для получения данных о компаниях по ИНН с 
 
 bash
 1. Клонировать
-git clone https://github.com/daniillopatin245-gif/company-api.git
-cd company-api
+- git clone https://github.com/daniillopatin245-gif/company-api.git
+- cd company-api
 
 2. Виртуальное окружение
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 3. Установка
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 4. Запуск
-uvicorn main:app --reload
+- uvicorn main:app --reload
 
 Открыть: http://localhost:8000/docs
 
