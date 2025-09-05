@@ -17,7 +17,7 @@ API для получения данных о компаниях по ИНН с 
 
 ## Запуск
 
-bash
+``bash
 # 1. Клонировать
 git clone https://github.com/daniillopatin245-gif/company-api.git
 cd company-api
@@ -36,7 +36,7 @@ uvicorn main:app --reload
 
 # Скриншоты
 ## Swagger UI
-![Swagger UI] (screenshots/swagger.png)
+![Swagger UI](screenshots/swagger.pg)
 
 Автор
 daniillopatin245-gif
